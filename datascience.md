@@ -1,6 +1,10 @@
-# Free data mining books
+# Free data mining resources
 
+## Data
+1. [UN Data](http://data.un.org/)
+2. [The Organisation for Economic Co-operation and Development](http://stats.oecd.org/)
 
+## Books
 <ol>
 <li><a rel="nofollow" href="http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf">An Introduction to Statistical Learning: with Applications in R</a><br> Overview of statistical learning based on large datasets of information. The exploratory techniques of the data are discussed using the R programming language.</li>
 <li><a rel="nofollow" href="http://modelingwithdata.org/about_the_book.html">Modeling With Data</a><br> This book focus some processes to solve analytical problems applied to data. In particular explains you the theory to create tools for exploring big datasets of information.</li>
